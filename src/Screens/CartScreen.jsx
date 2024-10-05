@@ -1,4 +1,4 @@
-import React from "react";
+
 import { useSelector, useDispatch } from "react-redux";
 import { FcEmptyTrash } from "react-icons/fc";
 import { removeCart, addToCart } from "../features/cartSlice";
